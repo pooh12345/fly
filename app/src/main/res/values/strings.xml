@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">flying</string>
+    <string name="na">the flying</string>
+    <string name="play">play</string>
+    <string name="credit">credit</string>
+    <string name="highscore">high score</string>
+
+</resources>
